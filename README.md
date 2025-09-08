@@ -8,6 +8,7 @@ It illustrates how CCR improves accuracy and interpretability in **Concept Bottl
 ## 📌 Purpose
 The demo replicates findings from the paper:  
 [*Enhancing Performance of Explainable AI Models with Constrained Concept Refinement (CCR)*](https://arxiv.org/pdf/2502.06775)
+<img width="1036" height="432" alt="image" src="https://github.com/user-attachments/assets/169102db-c4f8-4e99-8538-4be1bd1780f5" />
 
 It compares three approaches:
 1. **Baseline CBM** – Logistic regression on human-defined concepts.  
