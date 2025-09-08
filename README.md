@@ -38,7 +38,8 @@ These concepts form the *interpretable bottleneck*.
 
 $$\mathcal{L} = \text{CE}(\hat{y}, y) + \alpha_{CCR} \cdot \text{MSE}(z, h)$$
 
-where `z` = learned concepts, `h` = human concepts.
+where `z` = learned concepts, `h` = human concepts.  
+The hyperparameter $\alpha_{CCR}$ controls the strength of the alignment constraint: higher values enforce closer matching to human concepts but may slightly reduce classification accuracy if set too high.
 
 ---
 
