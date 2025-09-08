@@ -36,9 +36,7 @@ These concepts form the *interpretable bottleneck*.
 - **Deep CBM**: Neural network learns concepts → labels (unconstrained).  
 - **CCR**: Same network, but loss includes a penalty to match human concepts:
 
-\[
-\mathcal{L} = \text{CE}(\hat{y}, y) + \alpha_{CCR} \cdot \text{MSE}(z, h)
-\]
+$$\mathcal{L} = \text{CE}(\hat{y}, y) + \alpha_{CCR} \cdot \text{MSE}(z, h)$$
 
 where `z` = learned concepts, `h` = human concepts.
 
