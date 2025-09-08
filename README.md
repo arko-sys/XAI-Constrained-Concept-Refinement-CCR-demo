@@ -59,8 +59,12 @@ The notebook measures both **accuracy** and **concept fidelity**:
 
 Visualizations:
 - Accuracy comparison bar chart  
+  ![Accuracy Comparison](assets/accuracy_comparison.png)
 - Concept fidelity plots (RMSE, correlations)  
+  ![Concept Fidelity RMSE](assets/concept_fidelity_rmse.png)  
 - Example images with human vs CCR concepts  
+  ![Per-Concept Correlations](assets/per_concept_correlations.png)
+
 
 ---
 
