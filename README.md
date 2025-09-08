@@ -80,7 +80,7 @@ Visualizations:
 1. Open the notebook `CCR_demo.ipynb`.  
 2. Install dependencies:
    ```bash
-   pip install numpy pandas matplotlib scikit-learn torch
+   pip install -r requirements.txt
    ```
 3. Run all cells to reproduce results and plots.
 
