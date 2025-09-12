@@ -87,12 +87,6 @@ Visualizations:
 
 ---
 
-## 🤖 Code Attribution
-This code was generated using GPT-5(Thinking), debugged with Grok Code Fast 1, and further refined through manual debugging.  
-For transparency and reproducibility, the development process involved iterative AI-assisted coding and human oversight.
-
----
-
 ## 📖 Reference
 - *Enhancing Performance of Explainable AI Models with Constrained Concept Refinement (CCR)*  
   [arXiv:2502.06775](https://arxiv.org/pdf/2502.06775)
